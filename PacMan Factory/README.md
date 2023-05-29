@@ -2,7 +2,10 @@
 
 ![Pac-Man icon](pacman-icon.png)
 
-Factory for making Pac-Men
+## Description
+Factory for making Pac-Men that will chomp across the screen
+
+###
 
 The Pac-Men will chomp across the screen.
 They will also bounce off the edges and reverse directions when colliding with screen edges.
