@@ -1,4 +1,7 @@
-# Pac-Man Factory
+# Pac-Man Factory 🟡
+
+![Pac-Man icon](pacman-icon.png)
+
 Factory for making Pac-Men
 
 The Pac-Men will chomp across the screen.
