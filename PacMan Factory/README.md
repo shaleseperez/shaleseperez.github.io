@@ -1,8 +1,5 @@
-# pacmen
-Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+# Pac-Man Factory
+Factory for making Pac-Men that will chomp across the screen and bounce off the edges and reverse when colliding with screen edges.
+
+Click the 'Add Pac-Man' button to add as many Pac-Men as you'd like. Click 'Start Game' to wach them chomp!
 
