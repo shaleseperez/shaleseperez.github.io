@@ -1,3 +1,3 @@
 # Eye Movement Exercise 👀
 
-![Eyes icon](eyes.png)
+![Eyes icon](eyes2.jpg)
